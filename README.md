@@ -22,13 +22,16 @@ La traducción está hecha sobre la **versión 4.1.1** del hack.
 2. Aplica el parche [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `57A452AD`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `87318605`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.11**. SHA-256 del parche: `e5cedacac3c3d522d055a6a348b68f75d2e87b0c075d5451c47de05f2ea80805`.
+Versión actual: **v0.12**. SHA-256 del parche: `ce236ec293c02aa0b3103ed5d253641ff53757d7bf98160874b44ce158028696`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
+
+### Novedades de la v0.12
+- Un diálogo de Ethan que seguía en inglés.
 
 ### Novedades de la v0.11
 - Nombres de lugar que seguían en inglés (Tercer Estrato, Matorral Auburn, Gruta costera, Ruta costera…), también
@@ -114,9 +117,9 @@ The translation is based on **version 4.1.1** of the hack.
 2. Apply the patch [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `57A452AD`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `87318605`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.11**. Patch SHA-256: `e5cedacac3c3d522d055a6a348b68f75d2e87b0c075d5451c47de05f2ea80805`.
+Current version: **v0.12**. Patch SHA-256: `ce236ec293c02aa0b3103ed5d253641ff53757d7bf98160874b44ce158028696`.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 
