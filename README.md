@@ -22,10 +22,10 @@ La traducción está hecha sobre la **versión 4.1.1** del hack.
 2. Aplica el parche [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `54C4CE5E`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `57A452AD`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.11**. SHA-256 del parche: `735bb05d300e128753258c193b5c659e5ec83ce6412bbe429575184bb40dadf6`.
+Versión actual: **v0.11**. SHA-256 del parche: `e5cedacac3c3d522d055a6a348b68f75d2e87b0c075d5451c47de05f2ea80805`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
@@ -114,9 +114,9 @@ The translation is based on **version 4.1.1** of the hack.
 2. Apply the patch [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `54C4CE5E`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `57A452AD`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.11**. Patch SHA-256: `735bb05d300e128753258c193b5c659e5ec83ce6412bbe429575184bb40dadf6`.
+Current version: **v0.11**. Patch SHA-256: `e5cedacac3c3d522d055a6a348b68f75d2e87b0c075d5451c47de05f2ea80805`.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 
