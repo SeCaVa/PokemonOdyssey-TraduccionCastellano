@@ -22,13 +22,25 @@ La traducción está hecha sobre la **versión 4.1.1** del hack.
 2. Aplica el parche [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `19D2BF1D`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `54C4CE5E`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.1**. SHA-256 del parche: `7632811e290e2cdcad051651cd430446c6c6e675c189bb4ca50fac2b5de1653d`.
+Versión actual: **v0.11**. SHA-256 del parche: `735bb05d300e128753258c193b5c659e5ec83ce6412bbe429575184bb40dadf6`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
+
+### Novedades de la v0.11
+- Nombres de lugar que seguían en inglés (Tercer Estrato, Matorral Auburn, Gruta costera, Ruta costera…), también
+  en el cartel al entrar en cada zona.
+- Niñas y ancianas que salían como «Niño» o «Anciano» (según el sprite de cada personaje).
+- «Saldo» en vez de «Equilibrio», «PC Pokémon» en vez de «PSS», sin «!!» al subir o bajar características.
+- Menús, estadísticas y naturalezas con mayúsculas normales («Mochila», «Velocidad», «Datos»), como en el hack.
+- Iconos de estado de la ficha en castellano (ENV, PAR, DOR…), icono «MO» y cabecera del Tubo MT-MO.
+- Descripciones del bolsillo de bayas ajustadas a su ventana y onomatopeyas en castellano.
+- Pokémon paradoja con su nombre oficial (Colagrito, Pelarena, Melenalete, Colmilargo, Electrofu., Flamariete,
+  Bramaluna, Ondulagua) y «N.º» como en los juegos oficiales.
+- Pantalla del Editor de EV en castellano.
 
 ---
 
@@ -102,9 +114,9 @@ The translation is based on **version 4.1.1** of the hack.
 2. Apply the patch [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `19D2BF1D`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `54C4CE5E`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.1**. Patch SHA-256: `7632811e290e2cdcad051651cd430446c6c6e675c189bb4ca50fac2b5de1653d`.
+Current version: **v0.11**. Patch SHA-256: `735bb05d300e128753258c193b5c659e5ec83ce6412bbe429575184bb40dadf6`.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 
