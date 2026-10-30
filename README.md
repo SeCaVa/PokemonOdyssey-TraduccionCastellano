@@ -22,13 +22,22 @@ La traducción está hecha sobre la **versión 4.1.1** del hack.
 2. Aplica el parche [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `C940695F`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `FDF70546`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.13**. SHA-256 del parche: `b386f56c6039e4bb964881a8ba496decb15ab0d40b9c8b95f1e2119e63232e60`.
+Versión actual: **v0.14**. SHA-256 del parche: `a52a75e9d929d0c723bfdf317b9c338c855bc527cfec5f2d7740b2cd4f745670`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
+
+### Novedades de la v0.14
+- El menú para viajar entre Estratos y el del marinero ya caben en pantalla («2.º Estrato»,
+  «Bal. Acuático»); los carteles de zona vuelven a «Segundo Estrato», «Tercer Estrato»…
+- Descripciones de movimientos de la ficha ajustadas a su ventana (163 se salían por la derecha).
+- Pantalla Ev-Iv en castellano (estadísticas, amistad, Huevo, «Pág.» y «Salir»).
+- «Mover Pokémon» en el menú del PC.
+- 26 textos que seguían en inglés: misiones, el ajuste al límite de nivel, la Zona Safari, el
+  aparato que muestra los EV y otros diálogos.
 
 ### Novedades de la v0.13
 - El menú para viajar entre Estratos ya cabe en pantalla: los Estratos van con el ordinal abreviado
@@ -121,9 +130,9 @@ The translation is based on **version 4.1.1** of the hack.
 2. Apply the patch [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `C940695F`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `FDF70546`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.13**. Patch SHA-256: `b386f56c6039e4bb964881a8ba496decb15ab0d40b9c8b95f1e2119e63232e60`.
+Current version: **v0.14**. Patch SHA-256: `a52a75e9d929d0c723bfdf317b9c338c855bc527cfec5f2d7740b2cd4f745670`.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 
