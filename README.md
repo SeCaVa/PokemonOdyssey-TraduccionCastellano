@@ -22,15 +22,19 @@ La traducción está hecha sobre la **versión 4.1.1** del hack.
 2. Aplica el parche [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `3777DA4F`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `CF3965BE`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.15**. SHA-256 del parche: `0d73192c4044275e1fd3de48b1ca3ea8d68910f215e74bae5b50581159e2ddb6`.
+Versión actual: **v0.16**. SHA-256 del parche: `9f9a424895ceb7146d4c1aa4b0bf87044364c95fada586ea31309529e661d31b`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
 
-Los BPS de las publicaciones anteriores también se han actualizado a v0.15. Las notas de cada versión anterior se conservan como histórico.
+Los BPS de las publicaciones anteriores también se han actualizado a v0.16. Las notas de cada versión anterior se conservan como histórico.
+
+### Novedades de la v0.16
+- Iconos de objetos corregidos: vuelven a usar los gráficos originales del autor.
+- Se mantienen los textos y la banda sonora personalizada de v0.15.
 
 ### Novedades de la v0.15
 - Banda sonora personalizada del autor restaurada, incluida la percusión del primer Centro Pokémon.
@@ -137,11 +141,11 @@ The translation is based on **version 4.1.1** of the hack.
 2. Apply the patch [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `3777DA4F`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `CF3965BE`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.15**. Patch SHA-256: `0d73192c4044275e1fd3de48b1ca3ea8d68910f215e74bae5b50581159e2ddb6`.
+Current version: **v0.16**. Patch SHA-256: `9f9a424895ceb7146d4c1aa4b0bf87044364c95fada586ea31309529e661d31b`.
 
-The BPS assets on older releases have also been updated to v0.15; their original notes are retained as historical information.
+The BPS assets on older releases have also been updated to v0.16; their original notes are retained as historical information.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 
