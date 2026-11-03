@@ -30,7 +30,7 @@ Versión actual: **v0.17**. SHA-256 del parche: `4dbb3f1e7f274ff9e637a6c0773711a
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
 
-Los BPS de las publicaciones anteriores también se han actualizado a v0.16. Las notas de cada versión anterior se conservan como histórico.
+Los BPS de las publicaciones anteriores también se han actualizado a v0.17. Las notas de cada versión anterior se conservan como histórico.
 
 ### Novedades de la v0.17
 - Textos que seguían en inglés: la Dama del Gremio de los Intercambios Sorpresa y la descripción de un
@@ -152,7 +152,7 @@ The translation is based on **version 4.1.1** of the hack.
 
 Current version: **v0.17**. Patch SHA-256: `4dbb3f1e7f274ff9e637a6c0773711a86a17c8eec02f00a044c2ffa4d044b6b4`.
 
-The BPS assets on older releases have also been updated to v0.16; their original notes are retained as historical information.
+The BPS assets on older releases have also been updated to v0.17; their original notes are retained as historical information.
 
 The patch applies **directly to FireRed USA**: you don't need to patch the English hack first, it's already included.
 
