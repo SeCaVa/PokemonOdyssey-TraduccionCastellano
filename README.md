@@ -22,15 +22,22 @@ La traducción está hecha sobre la **versión 4.1.1** del hack.
 2. Aplica el parche [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `60E69CB1`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `784171E0`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.17**. SHA-256 del parche: `4dbb3f1e7f274ff9e637a6c0773711a86a17c8eec02f00a044c2ffa4d044b6b4`.
+Versión actual: **v0.18**. SHA-256 del parche: `a3d516cdf894ddaea581644399233c59183fee5ec2f719c15c17d0632f47d34d`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
 
 Los BPS de las publicaciones anteriores también se han actualizado a v0.16. Las notas de cada versión anterior se conservan como histórico.
+
+### Novedades de la v0.18
+- Mensajes al sacar y retirar Pokémon en combate como en Rojo Fuego («¡Vamos, X!», «¡Tú puedes, X!»,
+  «¡Bien hecho, X! ¡Ven aquí!»).
+- Ya no sale «subió muchosubió» en los cambios de características.
+- Tubo MT-MO: al elegir una MT sale «seleccionado.» en castellano.
+- Menú del chat de la Sala Unión: «Combate».
 
 ### Novedades de la v0.17
 - Textos que seguían en inglés: la Dama del Gremio de los Intercambios Sorpresa y la descripción de un
@@ -148,9 +155,9 @@ The translation is based on **version 4.1.1** of the hack.
 2. Apply the patch [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `60E69CB1`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `784171E0`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.17**. Patch SHA-256: `4dbb3f1e7f274ff9e637a6c0773711a86a17c8eec02f00a044c2ffa4d044b6b4`.
+Current version: **v0.18**. Patch SHA-256: `a3d516cdf894ddaea581644399233c59183fee5ec2f719c15c17d0632f47d34d`.
 
 The BPS assets on older releases have also been updated to v0.16; their original notes are retained as historical information.
 
