@@ -22,15 +22,19 @@ La traducción está hecha sobre la **versión 4.1.1** del hack.
 2. Aplica el parche [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `784171E0`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `34F80237`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.18**. SHA-256 del parche: `a3d516cdf894ddaea581644399233c59183fee5ec2f719c15c17d0632f47d34d`.
+Versión actual: **v0.19**. SHA-256 del parche: `ad57dcfc90b5acba3d15f09071a9f3ced17d1ca1ce0d3c994e07d23542c673d3`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
 
 Los BPS de las publicaciones anteriores también se han actualizado a v0.16. Las notas de cada versión anterior se conservan como histórico.
+
+### Novedades de la v0.19
+- Dos textos que seguían en inglés: el aviso sobre la ubicación del Capitán y la carta de Gutrune a Saya
+  sobre las Variantes de Etria.
 
 ### Novedades de la v0.18
 - Mensajes al sacar y retirar Pokémon en combate como en Rojo Fuego («¡Vamos, X!», «¡Tú puedes, X!»,
@@ -155,9 +159,9 @@ The translation is based on **version 4.1.1** of the hack.
 2. Apply the patch [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `784171E0`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `34F80237`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.18**. Patch SHA-256: `a3d516cdf894ddaea581644399233c59183fee5ec2f719c15c17d0632f47d34d`.
+Current version: **v0.19**. Patch SHA-256: `ad57dcfc90b5acba3d15f09071a9f3ced17d1ca1ce0d3c994e07d23542c673d3`.
 
 The BPS assets on older releases have also been updated to v0.16; their original notes are retained as historical information.
 
