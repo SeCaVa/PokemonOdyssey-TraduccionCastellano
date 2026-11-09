@@ -22,15 +22,22 @@ La traducción está hecha sobre la **versión 4.1.1** del hack.
 2. Aplica el parche [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `34F80237`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `F3550066`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.19**. SHA-256 del parche: `ad57dcfc90b5acba3d15f09071a9f3ced17d1ca1ce0d3c994e07d23542c673d3`.
+Versión actual: **v0.2**. SHA-256 del parche: `220002427eda0f71ce22973022e88d2c4f4ca838fcc173a889a6e2e0b3ee29ff`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
 
 Los BPS de las publicaciones anteriores también se han actualizado a v0.16. Las notas de cada versión anterior se conservan como histórico.
+
+### Novedades de la v0.2
+- Pantalla de Misiones: las descripciones que se cortaban por la derecha («exploraciones nava…» en las cuatro islas,
+  las investigaciones de Saya, la tarta, Lapras, Yanma y Beldum) caben ahora en su caja.
+- Textos que seguían en inglés: el objetivo «Entra en el Tercer Estrato», el recuento de Exploraciones navales,
+  el cartel del Lago de Lava y varios suspiros de Ethan, Frey y Cassian.
+- Descripción del Tubo MT acortada para que no se salga de la Mochila.
 
 ### Novedades de la v0.19
 - Dos textos que seguían en inglés: el aviso sobre la ubicación del Capitán y la carta de Gutrune a Saya
@@ -159,9 +166,9 @@ The translation is based on **version 4.1.1** of the hack.
 2. Apply the patch [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `34F80237`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `F3550066`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.19**. Patch SHA-256: `ad57dcfc90b5acba3d15f09071a9f3ced17d1ca1ce0d3c994e07d23542c673d3`.
+Current version: **v0.2**. Patch SHA-256: `220002427eda0f71ce22973022e88d2c4f4ca838fcc173a889a6e2e0b3ee29ff`.
 
 The BPS assets on older releases have also been updated to v0.16; their original notes are retained as historical information.
 
