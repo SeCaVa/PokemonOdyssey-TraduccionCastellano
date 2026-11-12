@@ -22,15 +22,27 @@ La traducción está hecha sobre la **versión 4.1.1** del hack.
 2. Aplica el parche [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `F3550066`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `3B62DD66`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.2**. SHA-256 del parche: `220002427eda0f71ce22973022e88d2c4f4ca838fcc173a889a6e2e0b3ee29ff`.
+Versión actual: **v0.21**. SHA-256 del parche: `9100ea83b37c7030b09b6e711c9b521315750f6b0e552400d2dcd0d3510d4c82`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
 
 Los BPS de las publicaciones anteriores también se han actualizado a v0.16. Las notas de cada versión anterior se conservan como histórico.
+
+### Novedades de la v0.21
+- Nombres oficiales en castellano para los personajes de otras regiones: Israel, Maya y León (antes Barry, Dawn y Lucas) y Tristana (antes Zinnia).
+- Lugares con su nombre oficial: Ciudad Puntaneva y Ciudad Luminalia.
+- El Hondón Granate se llama igual en todos los textos, e Isla Arce también.
+- Rótulos de lugar con las mayúsculas correctas: Almacén Rocket, Guarida Rocket, Cámaras Sete y Game Freak.
+- Olympia habla de «vosotros», como el resto del juego.
+- Los señores del mar de las misiones de Napier y sus tesoros tienen nombre en castellano (Bigotevolt, Escamabismo, Corazagator, Toxicolmillo, Cadenaleficio, Dragovoraz, Damoscura…), también en la Mochila.
+- Revisión de los diálogos frase a frase contra el inglés: unos 150 textos corregidos (signos ¡¿?! mal colocados, erratas, concordancias, quién habla a quién de tú o de usted, el género de Silva, Gutrune y Nyx, Brady y Brody, frases que decían otra cosa).
+- Las frases que se repiten por todo el juego dicen siempre lo mismo (mochila llena, tablas de madera, «¿Aún quieres seguir?», «se deshizo en polvo», «¡Has obtenido…!»).
+- Nombres oficiales: Manto Níveo, Real Plata, Real Oro, Polvoestelar y las Partes (Roja, Verde…), y los de la época del juego: Foco Respl., Compensación, Banda Focus y Guía Máximas.
+- Descripciones sin palabras partidas con guion al final de línea (Recurrente, Velocidad Extrema y otros dos movimientos, Cuchara Torcida y el diario del héroe).
 
 ### Novedades de la v0.2
 - Pantalla de Misiones: las descripciones que se cortaban por la derecha («exploraciones nava…» en las cuatro islas,
@@ -166,9 +178,9 @@ The translation is based on **version 4.1.1** of the hack.
 2. Apply the patch [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `F3550066`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `3B62DD66`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.2**. Patch SHA-256: `220002427eda0f71ce22973022e88d2c4f4ca838fcc173a889a6e2e0b3ee29ff`.
+Current version: **v0.21**. Patch SHA-256: `9100ea83b37c7030b09b6e711c9b521315750f6b0e552400d2dcd0d3510d4c82`.
 
 The BPS assets on older releases have also been updated to v0.16; their original notes are retained as historical information.
 
