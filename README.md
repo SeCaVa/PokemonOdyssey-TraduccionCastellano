@@ -22,15 +22,26 @@ La traducción está hecha sobre la **versión 4.1.1** del hack.
 2. Aplica el parche [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `3B62DD66`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `44A9857C`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.21**. SHA-256 del parche: `9100ea83b37c7030b09b6e711c9b521315750f6b0e552400d2dcd0d3510d4c82`.
+Versión actual: **v0.22**. SHA-256 del parche: `e7943cc9537549f5ce18c5f1013a1a1ac0798c7969b995cb07c3865924371b45`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
 
 Los BPS de las publicaciones anteriores también se han actualizado a v0.16. Las notas de cada versión anterior se conservan como histórico.
+
+### Novedades de la v0.22
+- Quién habla a quién de tú y de vosotros, revisado escena a escena con la versión italiana del autor: unos 55 diálogos de Karin, Kitt, Frey, Cassian, Yggdrasil, Rockey, Visil, Olympia, Nyx y otros ya se dirigen a una persona o al grupo como toca.
+- Olympia en modo robot tutea a Nyx, como en el resto del juego.
+- El Bosque Fibernia se llama igual en todos los textos.
+- Los mensajes al huir de un combate o perderlo caben en su ventana.
+- «Has dejado» y «Has sacado» del PC muestran la cantidad y el objeto en el orden correcto.
+- La palabra «Opción» del menú ya no sale en inglés.
+- El mapa de la tarjeta vuelve a ser el del hack.
+- Corregido un sprite que tenía cuatro bytes cambiados por error.
+- Las frases que se repiten por el juego dicen siempre lo mismo («No tienes suficiente dinero», «¡Pues allá vamos!», «Ah, vale...» y otras), y «¿Vale?» en lugar de «¿OK?».
 
 ### Novedades de la v0.21
 - Nombres oficiales en castellano para los personajes de otras regiones: Israel, Maya y León (antes Barry, Dawn y Lucas) y Tristana (antes Zinnia).
@@ -178,9 +189,9 @@ The translation is based on **version 4.1.1** of the hack.
 2. Apply the patch [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `3B62DD66`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `44A9857C`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.21**. Patch SHA-256: `9100ea83b37c7030b09b6e711c9b521315750f6b0e552400d2dcd0d3510d4c82`.
+Current version: **v0.22**. Patch SHA-256: `e7943cc9537549f5ce18c5f1013a1a1ac0798c7969b995cb07c3865924371b45`.
 
 The BPS assets on older releases have also been updated to v0.16; their original notes are retained as historical information.
 
