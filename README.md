@@ -22,15 +22,20 @@ La traducción está hecha sobre la **versión 4.1.1** del hack.
 2. Aplica el parche [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `0D12FBEA`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `0F4AA510`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.25**. SHA-256 del parche: `2b5df9e30ab5131dcee137f69c0fcede5fc4d5662f7e2943735b53688b530512`.
+Versión actual: **v0.26**. SHA-256 del parche: `948a787109c023d36705a704278dd1baa389a56196e4387d0ef5241e518bf72e`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
 
 Los BPS de las publicaciones anteriores también se han actualizado a v0.16. Las notas de cada versión anterior se conservan como histórico.
+
+### Novedades de la v0.26
+- Segunda revisión de calidad: frases más naturales y menos calcadas del inglés («Es imposible que…», «Ojalá…», «Recuerda tu sitio»).
+- «Entrenador» y «Bayas» se escriben siempre con mayúscula, y «curri» igual en todos los diálogos.
+- Mejor reparto de líneas en varios cuadros de diálogo.
 
 ### Novedades de la v0.25
 - Segunda lectura de calidad de todo el texto contra el inglés: cerca de 175 frases más naturales y menos calcadas del inglés (Nyx, Manu, Olympia, Gutrune, Kitt, el borracho y otros).
@@ -207,9 +212,9 @@ The translation is based on **version 4.1.1** of the hack.
 2. Apply the patch [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `0D12FBEA`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `0F4AA510`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.25**. Patch SHA-256: `2b5df9e30ab5131dcee137f69c0fcede5fc4d5662f7e2943735b53688b530512`.
+Current version: **v0.26**. Patch SHA-256: `948a787109c023d36705a704278dd1baa389a56196e4387d0ef5241e518bf72e`.
 
 The BPS assets on older releases have also been updated to v0.16; their original notes are retained as historical information.
 
