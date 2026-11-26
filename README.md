@@ -22,15 +22,22 @@ La traducción está hecha sobre la **versión 4.1.1** del hack.
 2. Aplica el parche [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `DDFDF07B`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `5ED436EC`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.27**. SHA-256 del parche: `f7029e48bc625a7b27233fa7b6ef1ebd983a780bfd5b1c5871ff2af8356d12e4`.
+Versión actual: **v0.28**. SHA-256 del parche: `a1e7d1683c08874cb779de959df329fb364ad266c9d09c6b613d4e371f6ee242`.
 
 El parche se aplica **directamente a FireRed USA**: no hace falta parchear antes el hack en inglés, porque ya
 lo incluye.
 
 Los BPS de las publicaciones anteriores también se han actualizado a v0.16. Las notas de cada versión anterior se conservan como histórico.
+
+### Novedades de la v0.28
+- Tumba Rocas: la descripción de la ficha ahora dice claramente lo que hace («Tira rocas al rival y le baja la Velocidad.»).
+- La naturaleza Fuerte se llama igual que en los juegos oficiales de la época.
+- «Gafas Elegid» y «Mineral Evol» se escriben igual en los diálogos que en el menú.
+- «Hum…» en lugar de una interjección sin traducir en dos diálogos, con mejor reparto de las líneas.
+- Las descripciones de varias MT se reparten mejor en la ficha y caben enteras.
 
 ### Novedades de la v0.27
 - Mejor reparto de líneas en varias cajas de diálogo: ya no queda una caja con solo el final de una frase.
@@ -216,9 +223,9 @@ The translation is based on **version 4.1.1** of the hack.
 2. Apply the patch [`Odyssey_ES.bps`](https://github.com/SeCaVa/PokemonOdyssey-TraduccionCastellano/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `DDFDF07B`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `5ED436EC`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.27**. Patch SHA-256: `f7029e48bc625a7b27233fa7b6ef1ebd983a780bfd5b1c5871ff2af8356d12e4`.
+Current version: **v0.28**. Patch SHA-256: `a1e7d1683c08874cb779de959df329fb364ad266c9d09c6b613d4e371f6ee242`.
 
 The BPS assets on older releases have also been updated to v0.16; their original notes are retained as historical information.
 
